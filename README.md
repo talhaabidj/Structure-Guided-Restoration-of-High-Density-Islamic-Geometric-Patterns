@@ -66,11 +66,11 @@ If you use this work, please cite:
 
 ```bibtex
 @misc{abid2025islamic,
-  author = {Talha Abid},
-  title = {Structure-Guided Restoration of High-Density Islamic Geometric Patterns},
-  year = {2025},
+  author    = {Talha Abid},
+  title     = {Structure-Guided Restoration of High-Density Islamic Geometric Patterns},
+  year      = {2025},
   publisher = {GitHub},
-  url = {https://github.com/YOUR_USERNAME/YOUR_REPO}
+  url       = {https://github.com/talhaabidj/Structure-Guided-Restoration-of-High-Density-Islamic-Geometric-Patterns}
 }
 ```
 
